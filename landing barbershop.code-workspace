@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../landing-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landing barbershop",
+		"liveServer.settings.CustomBrowser": "chrome"
+	}
+}
